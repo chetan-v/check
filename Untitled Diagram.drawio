@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T14:36:25.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dtK1Vy7fp8_l0nAPkFuY" version="21.7.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-18T14:37:52.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Rp2x4dDyIDEOezZYbu7d" version="21.7.5" type="github" pages="2">
   <diagram name="Page-1" id="aW8Af9oP-AqIqSo3x8vM">
     <mxGraphModel dx="1588" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -135,15 +135,15 @@
         <mxCell id="---odWJL_9JeowPd-2aQ-19" value="Chat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T5nX1nCgt0xRByemzgS3-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.76;entryY=0.938;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="---odWJL_9JeowPd-2aQ-9" edge="1">
+        <mxCell id="T5nX1nCgt0xRByemzgS3-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.564;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="---odWJL_9JeowPd-2aQ-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="480" as="sourcePoint" />
-            <mxPoint x="590" y="440" as="targetPoint" />
+            <mxPoint x="790" y="410" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T5nX1nCgt0xRByemzgS3-2" value="Group_Chat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="550" y="450" width="60" height="30" as="geometry" />
+        <mxCell id="T5nX1nCgt0xRByemzgS3-2" value="Group_Chat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=347;" parent="1" vertex="1">
+          <mxGeometry x="550" y="423" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
